@@ -1,0 +1,22 @@
+html {
+    color: black;
+    background-image: url(images/Background.png);
+    font-family: 'Calibri';
+    font-size: 14px;
+}
+
+div {
+    background-color: white;
+    width: 1000px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1 {
+    color: #f5b2b6;
+}
+
+ol {
+    text-align: left;
+}
